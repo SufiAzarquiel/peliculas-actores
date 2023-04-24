@@ -2,220 +2,181 @@
 <?xml-stylesheet href="style.xsl" type="text/xsl"?>
 <tmdb>
   <persons>
-    <person>
+    <person nombre="Thassapak Hsu">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/1fmjgN8EvDj1TiEJk2Zs4y0T40O.jpg</foto>
-      <nombre>Thassapak Hsu</nombre>
       <peliculas>萌妻食神, 外星女生柴小七, Devil Lover เผลอใจ..ให้นายปีศาจ</peliculas>
     </person>
-    <person>
+    <person nombre="Taliah Webster">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/uSxbqtYa4OCsgbQSSmIfvBFUbHw.jpg</foto>
-      <nombre>Taliah Webster</nombre>
       <peliculas>Good Time, Hair Wolf</peliculas>
     </person>
-    <person>
+    <person nombre="Cho Yeo-jeong">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg</foto>
-      <nombre>Cho Yeo-jeong</nombre>
       <peliculas>Parásitos, The Target (El objetivo), The Concubine</peliculas>
     </person>
-    <person>
+    <person nombre="Vanda Lee">
       <foto></foto>
-      <nombre>Vanda Lee</nombre>
       <peliculas>Ip Man 4</peliculas>
     </person>
-    <person>
+    <person nombre="Margot Robbie">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/pbSz7d1aURy88HGzFWng5EoFU81.jpg</foto>
-      <nombre>Margot Robbie</nombre>
       <peliculas>Escuadrón suicida, El lobo de Wall Street, La gran apuesta</peliculas>
     </person>
-    <person>
+    <person nombre="Tom Hanks">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/2gY92j2lkNHL2cThBhPmgXLd5PL.jpg</foto>
-      <nombre>Tom Hanks</nombre>
       <peliculas>Forrest Gump, Toy Story, Toy Story 3</peliculas>
     </person>
-    <person>
+    <person nombre="Saori Hara">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/jIaYlo0zMRG2qLwH5yiDkifRlo7.jpg</foto>
-      <nombre>Saori Hara</nombre>
       <peliculas>Sex and Zen Extreme Ecstasy, Horny House of Horror, Lala Pipo: A Lot of People</peliculas>
     </person>
-    <person>
+    <person nombre="Yoo Sul-young">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/yz9Y5mCjwtDffbT9GQPt9JBl2BS.jpg</foto>
-      <nombre>Yoo Sul-young</nombre>
       <peliculas>엄마의 유혹, 맛있는 세자매, 여대생들의은밀한아르바이트</peliculas>
     </person>
-    <person>
+    <person nombre="Vin Diesel">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/7rwSXluNWZAluYMOEWBxkPmckES.jpg</foto>
-      <nombre>Vin Diesel</nombre>
       <peliculas>Guardianes de la galaxia, Vengadores: Infinity War, Guardianes de la galaxia Vol. 2</peliculas>
     </person>
-    <person>
+    <person nombre="Rose Byrne">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg</foto>
-      <nombre>Rose Byrne</nombre>
       <peliculas>X-Men: Apocalipsis, X-Men: Primera Generación, La guerra de las galaxias. Episodio II: El ataque de los
         clones</peliculas>
     </person>
-    <person>
+    <person nombre="Peter Benson">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/1e5syqHk93Ol4E36RTGG0oVG9C.jpg</foto>
-      <nombre>Peter Benson</nombre>
       <peliculas>Joker, El amor lo es todo, todo, Sobrenatural</peliculas>
     </person>
-    <person>
+    <person nombre="Alison Jaye Horowitz">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/iEWtgDu0OweicGOl1rxybzCaota.jpg</foto>
-      <nombre>Alison Jaye Horowitz</nombre>
       <peliculas>Shameless (US), Creedme, Total Freak</peliculas>
     </person>
-    <person>
+    <person nombre="Bill Pullman">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/AmAmnlcfVzRpoKUugj61F1QgPTS.jpg</foto>
-      <nombre>Bill Pullman</nombre>
       <peliculas>Independence Day, The Equalizer (El protector), Independence Day: Contraataque</peliculas>
     </person>
-    <person>
+    <person nombre="Alexandra Daddario">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/lh5zibQXYH1MNqkuX8TmxyNYHhK.jpg</foto>
-      <nombre>Alexandra Daddario</nombre>
       <peliculas>San Andrés, Baywatch: Los vigilantes de la playa, Percy Jackson y el ladrón del rayo</peliculas>
     </person>
-    <person>
+    <person nombre="Scarlett Johansson">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg</foto>
-      <nombre>Scarlett Johansson</nombre>
       <peliculas>Los Vengadores, Vengadores: Infinity War, Capitán América: Civil War</peliculas>
     </person>
-    <person>
+    <person nombre="William Franklyn-Miller">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/kR7cSIIXQNugXHYjcPwp30uXHg7.jpg</foto>
-      <nombre>William Franklyn-Miller</nombre>
       <peliculas>Arrow, Los medici: Señores de Florencia, Vecinos</peliculas>
     </person>
-    <person>
+    <person nombre="Kirara Asuka">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/6kwgKZ7FpdVN1I8HXepNQ3zj0W0.jpg</foto>
-      <nombre>Kirara Asuka</nombre>
       <peliculas>アイアンガール Ultimate Weapon, アイアンガール, Joshû 701-gô: Sasori gaiden</peliculas>
     </person>
-    <person>
+    <person nombre="Leonardo DiCaprio">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg</foto>
-      <nombre>Leonardo DiCaprio</nombre>
       <peliculas>Origen, Django desencadenado, Titanic</peliculas>
     </person>
-    <person>
+    <person nombre="Ana de Armas">
       <foto>https://image.tmdb.org/t/p/w235_and_h235_face/8nXpnukcdLTsTmJrHfwbLq2DUm9.jpg</foto>
-      <nombre>Ana de Armas</nombre>
       <peliculas>Blade Runner 2049, Juego de armas, Puñales por la espalda</peliculas>
     </person>
-    <person>
-      <foto>https://image.tmdb.org/t/p/w235_and_h235_face/8YbS5L9hSnkmmYY1Izk1ok80BXL.jpg</foto>
-      <nombre>Luke Edwards</nombre>
+    <person nombre="Luke Edwards">
+      <foto></foto>
       <peliculas>American Pie 2, True Detective, Jeepers Creepers 2</peliculas>
     </person>
   </persons>
   <movies>
-    <movie>
+    <movie titulo="Bloodshot">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/qdwpe2rk2xJ0MwO64ouVTNOyTzD.jpg</foto>
-      <titulo>Bloodshot</titulo>
       <fecha>20 feb 2020</fecha>
       <rating>72.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Ad astra">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg</foto>
-      <titulo>Ad astra</titulo>
       <fecha>17 sep 2019</fecha>
       <rating>60</rating>
     </movie>
-    <movie>
+    <movie titulo="Ant-Man y la Avispa">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg</foto>
-      <titulo>Ant-Man y la Avispa</titulo>
       <fecha>04 jul 2018</fecha>
       <rating>69.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Misión imposible: Fallout">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg</foto>
-      <titulo>Misión imposible: Fallout</titulo>
       <fecha>13 jul 2018</fecha>
       <rating>73.0</rating>
     </movie>
-    <movie>
+    <movie titulo="El hombre invisible">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/tWbiAwIOmo4A49O60J7U9qjfQDl.jpg</foto>
-      <titulo>El hombre invisible</titulo>
       <fecha>26 feb 2020</fecha>
       <rating>71.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn)">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/dicP4RZkcgJi9udelg6QuYxf4K7.jpg</foto>
-      <titulo>Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn)</titulo>
       <fecha>05 feb 2020</fecha>
       <rating>71.0</rating>
     </movie>
-    <movie>
+    <movie titulo="El hoyo">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg</foto>
-      <titulo>El hoyo</titulo>
       <fecha>08 nov 2019</fecha>
       <rating>71.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Bad Boys para siempre">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/chhwNdkN4n2oIEjz736HPjTJg1h.jpg</foto>
-      <titulo>Bad Boys para siempre</titulo>
       <fecha>15 ene 2020</fecha>
       <rating>66.0</rating>
     </movie>
-    <movie>
+    <movie titulo="John Wick (Otro día para matar)">
       <foto></foto>
-      <titulo>John Wick (Otro día para matar)</titulo>
       <fecha>22 oct 2014</fecha>
       <rating>72.0</rating>
     </movie>
-    <movie>
+    <movie titulo="El rey león">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/yysmQpv26DdP79XtR3zsL3nVFbN.jpg</foto>
-      <titulo>El rey león</titulo>
       <fecha>12 jul 2019</fecha>
       <rating>71.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Las aventuras del Doctor Dolittle">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/12UGnmb4YdovJZ2QKjRMIsAJ16E.jpg</foto>
-      <titulo>Las aventuras del Doctor Dolittle</titulo>
       <fecha>01 ene 2020</fecha>
       <rating>68.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Día de lluvia en Nueva York">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/ya9ojfuWylP4P6iiaIaxz67Chu0.jpg</foto>
-      <titulo>Día de lluvia en Nueva York</titulo>
       <fecha>26 jul 2019</fecha>
       <rating>66.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Jumanji: Siguiente nivel">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg</foto>
-      <titulo>Jumanji: Siguiente nivel</titulo>
       <fecha>04 dic 2019</fecha>
       <rating>68.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Star Wars: El ascenso de Skywalker">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/16G2wZAkmKqSGK3it2VPjco5oyn.jpg</foto>
-      <titulo>Star Wars: El ascenso de Skywalker</titulo>
       <fecha>18 dic 2019</fecha>
       <rating>65.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Unidos">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg</foto>
-      <titulo>Unidos</titulo>
       <fecha>29 feb 2020</fecha>
       <rating>78.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Frozen 2">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg</foto>
-      <titulo>Frozen 2</titulo>
       <fecha>20 nov 2019</fecha>
       <rating>71.0</rating>
     </movie>
-    <movie>
+    <movie titulo="The Gentlemen: Los señores de la mafia">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/gvfQp5hUNKRUDAE7HMQdwGNl7Fs.jpg</foto>
-      <titulo>The Gentlemen: Los señores de la mafia</titulo>
       <fecha>16 dic 2019</fecha>
       <rating>79.0</rating>
     </movie>
-    <movie>
+    <movie titulo="Contagio">
       <foto></foto>
-      <titulo>Contagio</titulo>
       <fecha>08 sep 2011</fecha>
       <rating>65.0</rating>
     </movie>
-    <movie>
+    <movie titulo="கண்ணும் கண்ணும் கொள்ளையடித்தால்">
       <foto>https://image.tmdb.org/t/p/w220_and_h330_face/iaTW57RK87v7ZrGkLKVofNH9YOr.jpg</foto>
-      <titulo>கண்ணும் கண்ணும் கொள்ளையடித்தால்</titulo>
       <fecha>28 feb 2020</fecha>
       <rating>59.0</rating>
     </movie>
